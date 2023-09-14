@@ -1,0 +1,42 @@
+# Based on Rose Pine Moon Theme
+
+daemonize
+show-failed-attempts
+clock
+grace=1
+grace-no-mouse
+grace-no-touch
+fade-in=1
+ignore-empty-password
+effect-blur=9x5
+effect-vignette=0.5:0.5
+color=232136
+font="Inter"
+indicator
+indicator-radius=200
+indicator-thickness=20
+line-color=232136
+ring-color=393552
+inside-color=232136
+key-hl-color=eb6f92
+separator-color=00000000
+text-color=e0def4
+text-caps-lock-color=""
+line-ver-color=9ccfd8
+ring-ver-color=9ccfd8
+inside-ver-color=232136
+text-ver-color=e0def4
+ring-wrong-color=eb6f92
+text-wrong-color=e0def4
+inside-wrong-color=eb6f92
+inside-clear-color=232136
+text-clear-color=e0def4
+ring-clear-color=908caa
+line-clear-color=908caa
+line-wrong-color=1f1d2e
+bs-hl-color=31748
+
+# AM/PM formats (American Format)
+datestr=%a, %B %e
+timestr=%I:%M %p
+
