@@ -1,8 +1,12 @@
+# After writing your config, install the systemd timer/service files and enable the timer:
+## hyprshade install
+## systemctl --user enable --now hyprshade.timer
+
 [[shades]]
 name = "vibrance"
 default = true
 
 [[shades]]
 name = "blue-light-filter"
-start_time = 20:00:00
+start_time = 19:00:00
 end_time = 07:00:00
