@@ -1,6 +1,9 @@
 # After writing your config, install the systemd timer/service files and enable the timer:
+
 ## hyprshade install
 ## systemctl --user enable --now hyprshade.timer
+
+
 
 [[shades]]
 name = "vibrance"
