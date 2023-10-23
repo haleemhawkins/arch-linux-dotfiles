@@ -8,6 +8,8 @@ My first journey into daily driving Arch linux on desktop.
 > Hyprland
 #### Terminal: 
 > Kitty
+#### Lockscreen
+> Swaylock
 ---
 ![Screenshot_Home](https://github.com/haleemhawkins/arch-linux-dotfiles/assets/62164901/33874776-3561-467b-b63d-4fbca6d2335b)
 
