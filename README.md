@@ -1,6 +1,6 @@
 # arch-linux-dotfiles
 
-#### Color Theme: 
+#### Theme Color: 
 > Rose Pine Moon
 #### Window Manager:
 > Hyprland
