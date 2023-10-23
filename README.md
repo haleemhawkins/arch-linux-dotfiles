@@ -1,5 +1,7 @@
 # arch-linux-dotfiles
 
+My first journey into daily driving Arch linux on desktop.
+
 #### Theme Color: 
 > Rose Pine Moon
 #### Window Manager:
