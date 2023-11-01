@@ -3,13 +3,13 @@
 My first journey into daily driving Arch linux on desktop.
 
 #### Theme Color: 
-> Rose Pine Moon
+> [Rose Pine Moon](https://rosepinetheme.com/)
 #### Window Manager:
-> Hyprland
+> [Hyprland](https://hyprland.org/)
 #### Terminal: 
-> Kitty
+> [Kitty](https://sw.kovidgoyal.net/kitty/)
 #### Lockscreen
-> Swaylock
+> [Swaylock-Effects](https://github.com/mortie/swaylock-effects)
 ---
 ![Screenshot_Home](https://github.com/haleemhawkins/arch-linux-dotfiles/assets/62164901/33874776-3561-467b-b63d-4fbca6d2335b)
 
